@@ -1,0 +1,16 @@
+.dfx/
+**/.icp/cache/
+build/
+node_modules/
+package-lock.json
+Cargo.lock
+dist/
+.DS_Store
+_MACOSX
+.vscode/
+target/
+*.old.did
+.idea
+.mops
+.env
+**/frontend/src/bindings/
